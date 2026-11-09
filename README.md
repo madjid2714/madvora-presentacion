@@ -8,7 +8,7 @@ Madvora Services (15 profesionales, 260 m², dos plantas).
 
 ## Ver la presentación
 
-- En línea (GitHub Pages): `https://<tu-usuario>.github.io/madvora-presentacion/`
+- En línea (GitHub Pages): `https://madjid2714.github.io/madvora-presentacion/`
 - En local: abrir `index.html` en cualquier navegador (no necesita servidor ni conexión).
 
 ## Cómo navegar
