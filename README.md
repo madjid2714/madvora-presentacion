@@ -1,36 +1,41 @@
-# Madvora Services · Red local de dos plantas
+# Madvora Services · Two-floor local network
 
-Presentación interactiva del proyecto individual de redes locales (IFCT0209 / MF0220_2):
-diseño, direccionamiento, seguridad, instalación, calendario y presupuesto de la red de
-Madvora Services (15 profesionales, 260 m², dos plantas).
+Interactive presentation of the individual local-network project (IFCT0209 / MF0220_2):
+design, addressing, security, installation, schedule and budget for the network of
+Madvora Services (15 professionals, 260 m², two floors).
 
-**Autor:** Mohamed Madjid Meddah · 03/11/2026
+**Author:** Mohamed Madjid Meddah · 3 Nov 2026
 
-## Ver la presentación
+## View the presentation
 
-- En línea (GitHub Pages): `https://madjid2714.github.io/madvora-presentacion/`
-- En local: abrir `index.html` en cualquier navegador (no necesita servidor ni conexión).
+- Online (GitHub Pages): `https://madjid2014.github.io/madvora-presentacion/`
+- Locally: open `index.html` in any browser (no server or internet connection needed).
 
-## Idiomas
+## Languages
 
-Español, inglés y francés. El selector **ES · EN · FR** está arriba a la derecha; la elección se recuerda en el navegador y, la primera vez, se usa el idioma del navegador.
+Spanish, English and French. Use the **ES · EN · FR** switch at the top right. Your choice is
+remembered in the browser, and the first time the browser's language is used if it is English
+or French (Spanish otherwise).
 
-## Cómo navegar
+Note: the embedded images (floor plans, logical diagram, VLAN plan and Packet Tracer
+screenshots) keep their original text and are not translated.
 
-- **Móvil:** deslizar horizontalmente entre las 18 secciones.
-- **Ordenador:** flechas del teclado o rueda del ratón.
-- **Planos, fotos y capturas:** tocar la imagen para ampliarla; tocar de nuevo para acercar; tocar fuera para cerrar.
+## How to navigate
 
-## Contenido
+- **Mobile:** swipe horizontally between the 20 sections.
+- **Desktop:** keyboard arrows or mouse wheel.
+- **Plans, photos and screenshots:** tap an image to enlarge it; tap again to zoom in; tap outside to close.
 
-Cliente y plantilla · presupuesto detallado · cableado estructurado · esquema lógico, VLAN, direccionamiento IPv4 y Wi-Fi ·
-riesgos y SAI · canalización y cableado · organización y presupuesto final · calendario · verificación en Packet Tracer ·
-ventajas · evolución futura.
+## Contents
 
-## Tecnología
+Client and staff · detailed budget · structured cabling · logical diagram, VLANs, IPv4 addressing and Wi-Fi ·
+security between VLANs · risks and UPS · trunking and cabling · organisation and final budget · schedule ·
+Packet Tracer verification · advantages · future growth.
 
-Un único archivo HTML autónomo (HTML, CSS y SVG; imágenes incrustadas), sin dependencias externas.
+## Technology
 
-## Créditos de imágenes
+A single self-contained HTML file (HTML, CSS and SVG; images embedded) with no external dependencies.
 
-Las fotografías de producto pertenecen a sus fabricantes (Cisco, Synology) y se muestran con fines educativos.
+## Image credits
+
+Product photos belong to their manufacturers (Cisco, Synology) and are shown for educational purposes.
